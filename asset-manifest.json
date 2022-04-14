@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/learnhangul/static/css/main.8481c0e6.css",
+    "main.css": "/learnhangul/static/css/main.059a75a5.css",
     "main.js": "/learnhangul/static/js/main.9896db73.js",
     "static/media/logo.svg": "/learnhangul/static/media/logo.c764e91693b1ea202db2d24bb9ccd077.svg",
     "index.html": "/learnhangul/index.html",
-    "main.8481c0e6.css.map": "/learnhangul/static/css/main.8481c0e6.css.map",
+    "main.059a75a5.css.map": "/learnhangul/static/css/main.059a75a5.css.map",
     "main.9896db73.js.map": "/learnhangul/static/js/main.9896db73.js.map"
   },
   "entrypoints": [
-    "static/css/main.8481c0e6.css",
+    "static/css/main.059a75a5.css",
     "static/js/main.9896db73.js"
   ]
 }
